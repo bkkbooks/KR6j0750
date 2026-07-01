@@ -1,0 +1,552 @@
+canonical_identifier: bkk:krp/KR6j0750/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0750/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 準提淨業
+  identifiers:
+    krp: KR6j0750
+    cbeta: X59n1077
+    cbeta_old_id: X59n1077
+    authorityid: CA0004172
+    json_key: X1077
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1077.xml
+    old_id: X59n1077
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0750_000-X.yaml, hash: 'sha256:908749cf0a733a3a1135cdb5809cca1d1257db40ba6f807322308284ce791963'}
+  - {seq: 1, filename: KR6j0750_001-X.yaml, hash: 'sha256:bd739294a5590608f5062dbfb3f3b2ef61457946fbc5bf2f57dafb6919d9a1d3'}
+  - {seq: 2, filename: KR6j0750_002-X.yaml, hash: 'sha256:d133d7491f00e7fc58c82d78723481c2f0c2ee66aed7333750539b7263dd49ae'}
+  - {seq: 3, filename: KR6j0750_003-X.yaml, hash: 'sha256:23e3441cebc670731ae30745e0dfe0e2e499351458a5f4d010ce9ec4caf7fb55'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0750_000-X.markers.yaml, hash: 'sha256:fc722769321fb195dc3ed859e69ee47e3d29789f4a477f98bdc2dbbd702d1459'}
+  - {seq: 1, role: markers, filename: assets/KR6j0750_001-X.markers.yaml, hash: 'sha256:2a9c5d0cd3a54375363a3dec4ca6705cf352d22810ffd1e405be7b13671d01a9'}
+  - {seq: 2, role: markers, filename: assets/KR6j0750_002-X.markers.yaml, hash: 'sha256:20903e94baa237180cd52df81fd071712a6563244726052cd6f31a9480ed8f5b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0750_003-X.markers.yaml, hash: 'sha256:54214e625bb181393053052168a89c77512b8090956dbba448885415b72588a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0750_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1077-A 重刻准提淨業序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0750_X_000-mulu-2
+    span:
+    - front
+    - 604
+    - 604
+  label: No. 1077-B 准提淨業引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0750_X_000-mulu-3
+    span:
+    - front
+    - 904
+    - 904
+  label: 准提淨業目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6579
+  label: 准提淨業卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 七俱𦙆佛母心大准提陀羅尼經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-2
+    span:
+    - body
+    - 1435
+    - 1435
+  label: 陀羅尼布字法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-3
+    span:
+    - body
+    - 1463
+    - 1463
+  label: 念誦觀行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-4
+    span:
+    - body
+    - 1818
+    - 1818
+  label: 心月梵字觀門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-5
+    span:
+    - body
+    - 1898
+    - 1898
+  label: 字義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-6
+    span:
+    - body
+    - 2155
+    - 2155
+  label: 准提真言持誦便覽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-7
+    span:
+    - body
+    - 2462
+    - 2462
+  label: 持誦儀軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-8
+    span:
+    - body
+    - 2489
+    - 2489
+  label: 淨法界觀門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-9
+    span:
+    - body
+    - 2720
+    - 2720
+  label: 淨法界真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-10
+    span:
+    - body
+    - 2961
+    - 2961
+  label: 護身真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-11
+    span:
+    - body
+    - 3119
+    - 3119
+  label: 六字大明真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-12
+    span:
+    - body
+    - 3625
+    - 3625
+  label: 七俱胝佛母心大准提陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-13
+    span:
+    - body
+    - 4488
+    - 4488
+  label: 淨業續課
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-14
+    span:
+    - body
+    - 4524
+    - 4524
+  label: 般若波羅蜜多心經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-15
+    span:
+    - body
+    - 4794
+    - 4794
+  label: 大方廣佛華嚴經入不思議解脫境界普賢行願品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-16
+    span:
+    - body
+    - 5070
+    - 5070
+  label: 觀無量壽佛經上品上生章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-17
+    span:
+    - body
+    - 5406
+    - 5406
+  label: 拔一切業障根本往生淨土神呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-18
+    span:
+    - body
+    - 5609
+    - 5609
+  label: 回向西方願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0750_X_001-mulu-19
+    span:
+    - body
+    - 6277
+    - 6277
+  label: 十念法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 6838
+  label: 准提淨業卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀行儀軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-2
+    span:
+    - body
+    - 27
+    - 27
+  label: 觀行次第
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-3
+    span:
+    - body
+    - 27
+    - 27
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-4
+    span:
+    - body
+    - 189
+    - 189
+  label: 壇法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-5
+    span:
+    - body
+    - 1095
+    - 1095
+  label: 次結布字印
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-6
+    span:
+    - body
+    - 2116
+    - 2116
+  label: 次誦戒讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-7
+    span:
+    - body
+    - 2371
+    - 2371
+  label: 次入持誦觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-8
+    span:
+    - body
+    - 2820
+    - 2820
+  label: 迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-9
+    span:
+    - body
+    - 3072
+    - 3072
+  label: 淨業續課諸經如前
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-10
+    span:
+    - body
+    - 3080
+    - 3080
+  label: 念佛觀門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-11
+    span:
+    - body
+    - 3184
+    - 3184
+  label: 真言之母
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0750_X_002-mulu-12
+    span:
+    - body
+    - 3444
+    - 3444
+  label: 修習儀軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 16123
+  label: 准提淨業卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 顯密雙修觀行說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-2
+    span:
+    - body
+    - 20
+    - 20
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-3
+    span:
+    - body
+    - 400
+    - 400
+  label: 顯教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-4
+    span:
+    - body
+    - 5626
+    - 5626
+  label: (附)略法界觀門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-5
+    span:
+    - body
+    - 6133
+    - 6133
+  label: 密教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-6
+    span:
+    - body
+    - 8409
+    - 8409
+  label: 密呪利益
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-7
+    span:
+    - body
+    - 9937
+    - 9937
+  label: 密呪護持
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-8
+    span:
+    - body
+    - 10968
+    - 10968
+  label: 淨業圓修說
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-9
+    span:
+    - body
+    - 10973
+    - 10973
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-10
+    span:
+    - body
+    - 11652
+    - 11652
+  label: 淨業正願
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-11
+    span:
+    - body
+    - 12322
+    - 12322
+  label: 發菩提願
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-12
+    span:
+    - body
+    - 12910
+    - 12910
+  label: 六度萬行齊修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-13
+    span:
+    - body
+    - 13218
+    - 13218
+  label: 決生淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-14
+    span:
+    - body
+    - 13822
+    - 13822
+  label: 普賢願王得生極樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0750_X_003-mulu-15
+    span:
+    - body
+    - 14676
+    - 14676
+  label: 供佛利生儀
+  type: mulu
+  level: 1
+hash: sha256:9d227a5af33667f164596b8fc7f069056774fbb47660d8e0385603b02cef058f
