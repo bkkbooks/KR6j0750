@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0750_000-X.yaml, hash: 'sha256:908749cf0a733a3a1135cdb5809cca1d1257db40ba6f807322308284ce791963'}
+  - {seq: 0, filename: KR6j0750_000-X.yaml, hash: 'sha256:457f89b5c4abe58337f06cdb8ac0c20dfa5a4cba45007115b8e82f65f0103f59'}
   - {seq: 1, filename: KR6j0750_001-X.yaml, hash: 'sha256:bd739294a5590608f5062dbfb3f3b2ef61457946fbc5bf2f57dafb6919d9a1d3'}
   - {seq: 2, filename: KR6j0750_002-X.yaml, hash: 'sha256:d133d7491f00e7fc58c82d78723481c2f0c2ee66aed7333750539b7263dd49ae'}
   - {seq: 3, filename: KR6j0750_003-X.yaml, hash: 'sha256:23e3441cebc670731ae30745e0dfe0e2e499351458a5f4d010ce9ec4caf7fb55'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0750_000-X.markers.yaml, hash: 'sha256:fc722769321fb195dc3ed859e69ee47e3d29789f4a477f98bdc2dbbd702d1459'}
+  - {seq: 0, role: markers, filename: assets/KR6j0750_000-X.markers.yaml, hash: 'sha256:e611035974e1e20a2dc7766f19b0e5a5d72b9ddcca7b4dd4bf634e1cbf2a2c08'}
   - {seq: 1, role: markers, filename: assets/KR6j0750_001-X.markers.yaml, hash: 'sha256:2a9c5d0cd3a54375363a3dec4ca6705cf352d22810ffd1e405be7b13671d01a9'}
   - {seq: 2, role: markers, filename: assets/KR6j0750_002-X.markers.yaml, hash: 'sha256:20903e94baa237180cd52df81fd071712a6563244726052cd6f31a9480ed8f5b'}
   - {seq: 3, role: markers, filename: assets/KR6j0750_003-X.markers.yaml, hash: 'sha256:54214e625bb181393053052168a89c77512b8090956dbba448885415b72588a8'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0750_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1077-A 重刻准提淨業序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0750_X_000-mulu-2
     span:
-    - front
+    - body
     - 604
     - 604
   label: No. 1077-B 准提淨業引
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0750_X_000-mulu-3
     span:
-    - front
+    - body
     - 904
     - 904
   label: 准提淨業目
@@ -549,4 +549,4 @@ table_of_contents:
   label: 供佛利生儀
   type: mulu
   level: 1
-hash: sha256:9d227a5af33667f164596b8fc7f069056774fbb47660d8e0385603b02cef058f
+hash: sha256:96f5e95956935b2a95579e6df79c6fd5a085569a5f8c46335ea770aeb2a1fa27
